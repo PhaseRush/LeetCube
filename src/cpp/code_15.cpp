@@ -1,4 +1,3 @@
-// Contributor: youssef
 // 15. 3Sum (Medium)
 
 #include <algorithm>

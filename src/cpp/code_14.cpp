@@ -1,4 +1,3 @@
-// Contributor: youssef
 // 14. Longest Common Prefix (Easy)
 
 #include <string>

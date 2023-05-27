@@ -1,4 +1,3 @@
-// Contributor: youssef
 // 16. 3Sum Closest (Medium)
 
 #include <algorithm>

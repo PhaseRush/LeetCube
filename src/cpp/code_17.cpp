@@ -1,4 +1,3 @@
-// Contributor: youssef
 // 17. Letter Combinations of a Phone Number (Medium)
 
 #include <string>
