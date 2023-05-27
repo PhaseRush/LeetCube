@@ -1,0 +1,44 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "s": "()"
+        },
+        "output": true
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "()[]{}"
+        },
+        "output": true
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "(]"
+        },
+        "output": false
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "("
+        },
+        "output": false
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "]"
+        },
+        "output": false
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "())"
+        },
+        "output": false
+    }
+]

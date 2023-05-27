@@ -1,0 +1,26 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "s": "PAYPALISHIRING",
+            "numRows": 3
+        },
+        "output": "PAHNAPLSIIGYIR"
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "PAYPALISHIRING",
+            "numRows": 4
+        },
+        "output": "PINALSIGYAHRPI"
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "A",
+            "numRows": 1
+        },
+        "output": "A"
+    }
+]

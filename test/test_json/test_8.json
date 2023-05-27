@@ -1,0 +1,65 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "s": "42"
+        },
+        "output": 42
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "   -42"
+        },
+        "output": -42
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "4193 with words"
+        },
+        "output": 4193
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": ""
+        },
+        "output": 0
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "asdf"
+        },
+        "output": 0
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "2147483647"
+        },
+        "output": 2147483647
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "2147483648"
+        },
+        "output": 2147483647
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "-2147483648"
+        },
+        "output": -2147483648
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "-2147483649"
+        },
+        "output": -2147483648
+    }
+]

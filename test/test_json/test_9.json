@@ -1,0 +1,51 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "x": 121
+        },
+        "output": true
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "x": -121
+        },
+        "output": false
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "x": 10
+        },
+        "output": false
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "x": 0
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "x": 1
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "x": 1221
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "x": 9009
+        },
+        "output": true
+    }
+]

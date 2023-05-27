@@ -4,6 +4,8 @@ Welcome everyone to contribute their LeetCode solutions!
 
 ## [How to run](doc/run.md)
 
+## [Upload format](doc/format.md)
+
 ## Questions
 
 | Total | Easy | Medium | Hard |
