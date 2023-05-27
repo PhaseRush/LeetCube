@@ -1,0 +1,23 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "nums": [ -1, 0, 1, 2, -1, -4 ]
+        },
+        "output": [ [ -1, -1, 2 ], [ -1, 0, 1 ] ]
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "nums": [ 0, 1, 1 ]
+        },
+        "output": [ ]
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "nums": [ 0, 0, 0 ]
+        },
+        "output": [ [ 0, 0, 0 ] ]
+    }
+]

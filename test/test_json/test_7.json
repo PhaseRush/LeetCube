@@ -1,0 +1,23 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "x": 123
+        },
+        "output": 321
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "x": -123
+        },
+        "output": -321
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "x": 120
+        },
+        "output": 21
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "s": "aa",
+            "p": "a"
+        },
+        "output": false
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "aa",
+            "p": "a*"
+        },
+        "output": true
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "ab",
+            "p": ".*"
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "ab",
+            "p": "."
+        },
+        "output": false
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "ab",
+            "p": ".."
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "b",
+            "p": "a*b"
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "ab",
+            "p": "a*b"
+        },
+        "output": true
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "aab",
+            "p": "a*b"
+        },
+        "output": true
+    }
+]

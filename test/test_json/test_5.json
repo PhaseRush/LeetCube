@@ -1,0 +1,30 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "s": "babad"
+        },
+        "output": ["bab", "aba"]
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "s": "cbbd"
+        },
+        "output": ["bb"]
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "a"
+        },
+        "output": ["a"]
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "s": "abb"
+        },
+        "output": ["bb"]
+    }
+]

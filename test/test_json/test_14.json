@@ -1,0 +1,37 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "strs": ["flower", "flow", "flight"]
+        },
+        "output": "fl"
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "strs": ["flower", "flow", "flight"]
+        },
+        "output": "fl"
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "strs": ["flower", "flow", "flight"]
+        },
+        "output": "fl"
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "strs": ["flower", "flow", "flight"]
+        },
+        "output": "fl"
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "strs": ["flower", "flow", "flight"]
+        },
+        "output": "fl"
+    }
+]

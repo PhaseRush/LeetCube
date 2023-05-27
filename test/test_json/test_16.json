@@ -1,0 +1,42 @@
+[
+    {
+        "contributor": "given",
+        "input": {
+            "nums": [ -1, 2, 1, -4 ],
+            "target": 1
+        },
+        "output": 2
+    },
+    {
+        "contributor": "given",
+        "input": {
+            "nums": [ 0, 0, 0 ],
+            "target": 1
+        },
+        "output": 0
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "nums": [ 0, 0, 0, 1, 1 ],
+            "target": 3
+        },
+        "output": 2
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "nums": [ 0, 0, 0, 4, 4 ],
+            "target": 1
+        },
+        "output": 0
+    },
+    {
+        "contributor": "blank",
+        "input": {
+            "nums": [ 2, 3, 8, 9, 10 ],
+            "target": 16
+        },
+        "output": 15
+    }
+]
