@@ -8,7 +8,8 @@ struct ListNode {
     ListNode(int x, ListNode* next) : val(x), next(next) {}
 };
 
-class RemoveNthNodeFromEndOfList {
+class Solution {
+public:
     /**
           Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
@@ -17,7 +18,6 @@ class RemoveNthNodeFromEndOfList {
           @pre 0 <= Node.val <= 100
           @pre 1 <= n <= sz
     */
-public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         int num = 0;
         for (ListNode* n = head; n != nullptr; n = n->next)

@@ -4,11 +4,9 @@ Let $n$ be the question number
 
 ## C++
 
-`cd` into the `test/cpp` directory first, then
-
 ```shell
-make test_n
-./test_n
+make bin/test_n
+./bin/test_n
 ```
 
 To compile and run all tests:

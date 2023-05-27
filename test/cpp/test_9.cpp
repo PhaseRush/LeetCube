@@ -12,7 +12,7 @@ using json = nlohmann::json;
 using namespace std;
 
 TEST_CASE() {
-    ifstream test_file("../test_json/test_9.json");
+    ifstream test_file("test/test_json/test_9.json");
     json tests;
     test_file >> tests;
 

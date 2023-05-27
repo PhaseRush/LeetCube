@@ -5,7 +5,8 @@
 
 using namespace std;
 
-class ThreeSumClosest {
+class Solution {
+public:
     /**
         Given an integer array nums of length n and an integer target, find three integers in nums such that the sum is closest to target.
 
@@ -17,7 +18,6 @@ class ThreeSumClosest {
         @pre -1000 <= nums[i] <= 1000
         @pre -10^4 <= target <= 10^4
     */
-public:
     int threeSumClosest(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end());
         int soln;

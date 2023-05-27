@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class LongestCommonPrefix {
+class Solution {
 public:
     /**
         Write a function to find the longest common prefix string amongst an array of strings.

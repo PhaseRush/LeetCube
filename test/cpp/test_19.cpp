@@ -34,7 +34,7 @@ ListNode* from_array(const vector<int>& arr, size_t idx) {
 }
 
 TEST_CASE() {
-    ifstream test_file("../test_json/test_19.json");
+    ifstream test_file("test/test_json/test_19.json");
     json tests;
     test_file >> tests;
 

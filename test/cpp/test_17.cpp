@@ -10,7 +10,7 @@
 using json = nlohmann::json;
 
 TEST_CASE() {
-    ifstream test_file("../test_json/test_17.json");
+    ifstream test_file("test/test_json/test_17.json");
     json tests;
     test_file >> tests;
 
@@ -24,6 +24,7 @@ TEST_CASE() {
         string digits = input["digits"].get<string>();
         vector<string> expected = output.get<vector<string>>();
         vector<string> result = sol.letterCombinations(digits);
+        sort(result.begin(), result.end());
         INFO("TEST CASE " << (it - tests.begin()));
         CHECK(result == expected);
     }

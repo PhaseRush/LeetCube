@@ -194,6 +194,10 @@ cython_debug/
 *.out
 *.app
 
+# Output directories
+bin/
+build/
+
 # !!! Java
 # Compiled class file
 *.class
