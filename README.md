@@ -10,7 +10,7 @@ Welcome everyone to contribute their LeetCode solutions!
 
 | Total | Easy | Medium | Hard |
 | ----- | ---- | ------ | ---- |
-| 35    | 15   | 17     | 3    |
+| 36    | 15   | 17     | 4    |
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/)
 🟢 Easy
@@ -116,3 +116,6 @@ Welcome everyone to contribute their LeetCode solutions!
 
 [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)
 🟢 Easy
+
+[2709. Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)
+🔴 Hard
