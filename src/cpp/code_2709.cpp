@@ -1,7 +1,6 @@
 // 2709. Greatest Common Divisor Traversal (Hard)
 
 #include <algorithm>
-#include <iostream>
 #include <unordered_map>
 #include <unordered_set>
 #include <vector>
